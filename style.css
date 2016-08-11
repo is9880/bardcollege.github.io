@@ -65,6 +65,11 @@ img{
     float: left;
 }
 
+.redacted {
+    background-color; #000000
+    color; #000001
+}
+
 .box { 
     width: 250px;
     margin: 15px;
